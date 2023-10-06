@@ -8,7 +8,6 @@ This Project has been developed using NetBeans IDE, used MySQL as the database.
 
 The following modules have been developed for successful completion of this Project:
 <br/>
-
 I. Login/ Singup for users
 <br/>
 
